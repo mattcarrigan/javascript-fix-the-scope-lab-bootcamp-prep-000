@@ -31,7 +31,7 @@ var funkyFunction = Outerfunction() {
 //var theFunk = funkyFunction
 //var theFunk = "FUNKY!"
 
-var theFunk = Funkyfunction.function("FUNKY!");
+var theFunk = funkyFunction
 
 
 /*
