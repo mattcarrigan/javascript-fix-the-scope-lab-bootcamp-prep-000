@@ -31,7 +31,7 @@ var funkyFunction = Outsidefunction() {
 //var theFunk = funkyFunction
 //var theFunk = "FUNKY!"
 
-var theFunk = funkyFunction
+var theFunk = funkyFunction(()())
 
 
 /*
