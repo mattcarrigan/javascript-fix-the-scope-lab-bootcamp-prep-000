@@ -19,8 +19,8 @@ function add2(n) {
   return parseInt (n + two)
 }
 
-var funkyFunction = function() {
-    return function() {
+var funkyFunction = Outsidefunction() {
+    return Insidefunction() {
     return "FUNKY!"
   }
 }
